@@ -1,0 +1,154 @@
+# Copyright (C) 2020 Mikael Olsson
+# This file is distributed under the same license as the Import Todos plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Import Todos\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/import-todos\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-02-20T12:09:52+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.2.0\n"
+"X-Domain: import-todos\n"
+
+#. Plugin Name of the plugin
+msgid "Import Todos"
+msgstr ""
+
+#. Description of the plugin
+msgid "Imports todos from api and keep them updated."
+msgstr ""
+
+#. Author of the plugin
+msgid "Mikael Olsson"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://author.example.com/"
+msgstr ""
+
+#: import-todos.php:145
+#: import-todos.php:180
+msgid "Todos"
+msgstr ""
+
+#: import-todos.php:146
+#: import-todos.php:170
+msgid "Todo"
+msgstr ""
+
+#: import-todos.php:147
+msgid "My Todos"
+msgstr ""
+
+#: import-todos.php:148
+msgid "All Todos"
+msgstr ""
+
+#: import-todos.php:149
+msgid "Add new"
+msgstr ""
+
+#: import-todos.php:150
+msgid "Add new Todo"
+msgstr ""
+
+#: import-todos.php:151
+msgid "Edit Todo"
+msgstr ""
+
+#: import-todos.php:152
+msgid "New Todo"
+msgstr ""
+
+#: import-todos.php:153
+msgid "View Todo"
+msgstr ""
+
+#: import-todos.php:154
+msgid "View Todos"
+msgstr ""
+
+#: import-todos.php:155
+msgid "Search Todos"
+msgstr ""
+
+#: import-todos.php:156
+msgid "No Todos found"
+msgstr ""
+
+#: import-todos.php:157
+msgid "No Todos found in trash"
+msgstr ""
+
+#: import-todos.php:158
+#: import-todos.php:176
+msgid "Parent Todo:"
+msgstr ""
+
+#: import-todos.php:159
+msgid "Featured image for this Todo"
+msgstr ""
+
+#: import-todos.php:160
+msgid "Set featured image for this Todo"
+msgstr ""
+
+#: import-todos.php:161
+msgid "Remove featured image for this Todo"
+msgstr ""
+
+#: import-todos.php:162
+msgid "Use as featured image for this Todo"
+msgstr ""
+
+#: import-todos.php:163
+msgid "Todo archives"
+msgstr ""
+
+#: import-todos.php:164
+msgid "Insert into Todo"
+msgstr ""
+
+#: import-todos.php:165
+msgid "Upload to this Todo"
+msgstr ""
+
+#: import-todos.php:166
+msgid "Filter Todos list"
+msgstr ""
+
+#: import-todos.php:167
+msgid "Todos list navigation"
+msgstr ""
+
+#: import-todos.php:168
+msgid "Todos list"
+msgstr ""
+
+#: import-todos.php:169
+msgid "Todos attributes"
+msgstr ""
+
+#: import-todos.php:171
+msgid "Todo published"
+msgstr ""
+
+#: import-todos.php:172
+msgid "Todo published privately."
+msgstr ""
+
+#: import-todos.php:173
+msgid "Todo reverted to draft."
+msgstr ""
+
+#: import-todos.php:174
+msgid "Todo scheduled"
+msgstr ""
+
+#: import-todos.php:175
+msgid "Todo updated."
+msgstr ""
